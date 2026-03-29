@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\drawable_card_back_bg.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\drawable\\card_back_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.memoryflipgame.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.memoryflipgame.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\drawable_card_matched_bg.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\drawable\\card_matched_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.memoryflipgame.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.memoryflipgame.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\layout_item_card.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\layout\\item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ua\\.gradle\\daemon\\8.9\\com.example.memoryflipgame.app-main-34:\\mipmap-hdpi\\ic_launcher_round.xml"
+    }
+]

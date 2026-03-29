@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="emoji_text_size_4x4">32sp</dimen>
+    <dimen name="emoji_text_size_6x6">24sp</dimen>
+</resources>

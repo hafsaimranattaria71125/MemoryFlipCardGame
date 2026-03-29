@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Drop shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M26,26 L82,26 Q86,26 86,30 L86,86 Q86,90 82,90 L26,90 Q22,90 22,86 L22,30 Q22,26 26,26 Z"
+        android:translateX="3"
+        android:translateY="3"/>
+
+    <!-- Card white body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,26 L82,26 Q86,26 86,30 L86,86 Q86,90 82,90 L26,90 Q22,90 22,86 L22,30 Q22,26 26,26 Z" />
+
+    <!-- Card inner background -->
+    <path
+        android:fillColor="#FFF3E0"
+        android:pathData="M30,30 L78,30 Q82,30 82,34 L82,82 Q82,86 78,86 L30,86 Q26,86 26,82 L26,34 Q26,30 30,30 Z" />
+
+    <!-- Corner dots decoration -->
+    <path android:fillColor="#FF6B35" android:pathData="M33,36 Q35,34 37,36 Q37,38 35,38 Q33,38 33,36 Z" />
+    <path android:fillColor="#FF6B35" android:pathData="M71,36 Q73,34 75,36 Q75,38 73,38 Q71,38 71,36 Z" />
+    <path android:fillColor="#FF6B35" android:pathData="M33,70 Q35,68 37,70 Q37,72 35,72 Q33,72 33,70 Z" />
+    <path android:fillColor="#FF6B35" android:pathData="M71,70 Q73,68 75,70 Q75,72 73,72 Q71,72 71,70 Z" />
+
+    <!-- Big Question Mark -->
+    <!-- Top arc of ? -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M54,34 Q68,34 68,44 Q68,52 60,55 Q58,56 58,58 L58,63 Q54,64 50,63 L50,56 Q50,52 54,51 Q60,49 60,44 Q60,40 54,40 Q48,40 48,44 L48,46 Q44,46 40,44 L40,42 Q40,34 54,34 Z" />
+    <!-- Dot of ? -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M50,67 Q54,64 58,67 Q58,73 54,73 Q50,73 50,67 Z" />
+
+    <!-- Sparkle top right -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M80,22 L81,26 L85,27 L81,28 L80,32 L79,28 L75,27 L79,26 Z" />
+
+    <!-- Sparkle bottom left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,80 L23,84 L27,85 L23,86 L22,90 L21,86 L17,85 L21,84 Z" />
+
+    <!-- Small sparkle top left -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M25,22 L26,25 L29,26 L26,27 L25,30 L24,27 L21,26 L24,25 Z" />
+
+</vector>

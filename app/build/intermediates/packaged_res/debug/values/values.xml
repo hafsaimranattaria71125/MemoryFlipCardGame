@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_orange">#FF6B35</color>
+    <color name="accent_purple">#7C4DFF</color>
+    <color name="bg_game">#F0EEF8</color>
+    <color name="bg_gradient_end">#7B52C8</color>
+    <color name="bg_gradient_start">#4C2F9E</color>
+    <color name="black">#FF000000</color>
+    <color name="card_back">#5C35B5</color>
+    <color name="card_front">#FFFFFF</color>
+    <color name="matched_card">#A8E6A3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="emoji_text_size_4x4">32sp</dimen>
+    <dimen name="emoji_text_size_6x6">24sp</dimen>
+    <string name="app_name">Memory Flip Game</string>
+    <string name="moves">Moves: 0</string>
+    <string name="pairs">Pairs: 0/8</string>
+    <string name="play_again">Play Again</string>
+    <string name="reset">New Game</string>
+    <string name="you_won">You Won!</string>
+    <style name="Theme.MemoryFlipGame" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bg_gradient_start</item>
+        <item name="colorPrimaryVariant">@color/bg_gradient_end</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="colorSecondaryVariant">@color/accent_orange</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/bg_gradient_start</item>
+        <item name="android:navigationBarColor">@color/bg_gradient_start</item>
+    </style>
+    <style name="Theme.MemoryFlipGame.Splash" parent="Theme.MemoryFlipGame">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
